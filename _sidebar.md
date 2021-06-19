@@ -7,3 +7,4 @@
     - [类加载](jvm/class-loading.md "类加载")
     - [执行引擎](jvm/execution.md "执行引擎")
     - [内存管理](jvm/memory.md "内存管理")
+    - [Troubleshooting](jvm/troubleshoot.md "Troubleshooting")
